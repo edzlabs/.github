@@ -5,7 +5,8 @@ Please include a summary of the change and which issue is fixed. Please also inc
 Fixes # (issue)
 
 ## Related PRs
-- # (number)
+- link to PR_1
+- link to PR_2
 
 ## Type of change
 
